@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sahul - Jocul Mintii</title>
+</head>
+
+<body>
+
+    <!-- 1. TITLUL -->
+    <h1 align="center">Sahul - Jocul Mintii</h1>
+
+    <hr>
+
+    <!-- 2. INFORMATII DESPRE SAH -->
+    <h2>Informatii generale despre sah</h2>
+    <p>Sahul este un joc de strategie pentru doi jucatori.</p>
+    <p>Se joaca pe o tabla cu 64 de patrate, alb si negru.</p>
+    <p>Fiecare jucator incepe cu 16 piese.</p>
+    <p>Scopul jocului este sa dai sah-mat regelui advers.</p>
+    <p>Piesele sunt: rege, regina, turn, nebun, cal si pion.</p>
+    <p>Regele este cea mai importanta piesa din joc.</p>
+    <p>Regina este cea mai puternica piesa.</p>
+    <p>Pionii pot fi promovati daca ajung la capatul tablei.</p>
+    <p>Sahul necesita gandire logica si strategie.</p>
+    <p>Este considerat un sport al mintii.</p>
+    <p>Exista competitii internationale de sah.</p>
+    <p>Jocul are origini vechi, de peste 1000 de ani.</p>
+    <p>Sahul ajuta la dezvoltarea concentrarii.</p>
+    <p>Se poate juca atat fizic, cat si online.</p>
+    <p>Deschiderile si finalurile sunt parti importante ale jocului.</p>
+
+    <hr>
+
+    <!-- 3. MOTIVATIA -->
+    <h2>Motivatia alegerii temei</h2>
+    <p>Am ales sahul deoarece este un joc foarte interesant.</p>
+    <p>Acesta dezvolta gandirea si atentia.</p>
+    <p>Este un joc cunoscut in toata lumea.</p>
+    <p>Imi place pentru ca implica strategie si planificare.</p>
+
+    <hr>
+
+    <!-- 4. OBIECTE: TABEL SI LISTE -->
+    <h2>Piesele de sah</h2>
+
+    <table border="1">
+        <tr>
+            <th>Piesa</th>
+            <th>Descriere</th>
+            <th>Miscare</th>
+        </tr>
+        <tr>
+            <td>Rege</td>
+            <td>Cea mai importanta piesa</td>
+            <td>O casuta in orice directie</td>
+        </tr>
+        <tr>
+            <td>Regina</td>
+            <td>Cea mai puternica piesa</td>
+            <td>Orice directie, oricate casute</td>
+        </tr>
+        <tr>
+            <td>Turn</td>
+            <td>Piesa puternica</td>
+            <td>Linie dreapta (orizontal/vertical)</td>
+        </tr>
+        <tr>
+            <td>Nebun</td>
+            <td>Piesa diagonala</td>
+            <td>Diagonal</td>
+        </tr>
+        <tr>
+            <td>Cal</td>
+            <td>Se misca in forma de L</td>
+            <td>2+1 casute</td>
+        </tr>
+        <tr>
+            <td>Pion</td>
+            <td>Cea mai simpla piesa</td>
+            <td>Inainte, cate o casuta</td>
+        </tr>
+    </table>
+
+    <h3>Reguli de baza:</h3>
+    <ul>
+        <li>Jucatorii muta pe rand.</li>
+        <li>Nu poti muta prin alte piese (exceptie: calul).</li>
+        <li>Regele nu poate fi lasat in sah.</li>
+        <li>Sah-mat inseamna castig.</li>
+    </ul>
+
+    <h3>Ordinea pieselor la inceput:</h3>
+    <ol>
+        <li>Turn</li>
+        <li>Cal</li>
+        <li>Nebun</li>
+        <li>Regina</li>
+        <li>Rege</li>
+        <li>Nebun</li>
+        <li>Cal</li>
+        <li>Turn</li>
+    </ol>
+
+    <hr>
+
+    <!-- 5. SPATII PENTRU IMAGINI -->
+    <h2>Imagini</h2>
+
+    <p>Tabla de sah:</p>
+    <img src="" width="300" height="300">
+
+    <p>Piese de sah:</p>
+    <img src="" width="300" height="200">
+
+    <p>Exemplu de joc:</p>
+    <img src="" width="300" height="200">
+
+    <hr>
+
+    <!-- FINAL -->
+    <p align="center">Proiect realizat despre sah</p>
+
+</body>
+</html>
